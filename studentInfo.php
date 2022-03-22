@@ -1,6 +1,6 @@
 <?php
 
-$devs=[
+$students=[
     [
         'name'    => 'Abir',
         'age'    => 25,
